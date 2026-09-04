@@ -26,6 +26,8 @@ baseurl: "/LS_191_Blog"
 # Build settings
 plugins:
   - jekyll-remote-theme 
+  - jekyll-paginate 
+  - jekyll-feed
 remote_theme: zivhub/monophase@main
 # Exclude from processing.
 # The following items will not be processed, by default.
