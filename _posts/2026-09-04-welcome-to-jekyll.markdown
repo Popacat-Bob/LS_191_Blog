@@ -1,5 +1,6 @@
 ---
 layout: post
+<<<<<<< HEAD
 title:  "Welcome to Jekyll!"
 date:   2026-09-04 15:41:12 +0800
 categories: jekyll update
@@ -27,3 +28,10 @@ Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most ou
 [jekyll-docs]: https://jekyllrb.com/docs/home
 [jekyll-gh]:   https://github.com/jekyll/jekyll
 [jekyll-talk]: https://talk.jekyllrb.com/
+=======
+title:  "This is a test post!"
+date:   2026-09-04 15:01:52 +0800
+categories: jekyll update
+---
+
+>>>>>>> 6962588 (Made blog template)
