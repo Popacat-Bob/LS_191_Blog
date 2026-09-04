@@ -23,7 +23,6 @@ lang: en
 author.name: LCM 
 
 # Build settings
-theme: monophase 
 plugins:
   - jekyll-remote-theme 
 remote_theme: zivhub/monophase@main
