@@ -21,6 +21,7 @@ title: EasyLV
 tagline: A live selling solution for Facebook livesellers.
 lang: en 
 author.name: LCM 
+baseurl: "/LS_191_Blog"
 
 # Build settings
 plugins:
