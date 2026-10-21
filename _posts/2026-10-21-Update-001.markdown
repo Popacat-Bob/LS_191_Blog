@@ -1,0 +1,15 @@
+---
+title: "Update 001"
+date: 2026-10-21 20:48:20 +0800
+categories: 
+---
+
+Quick notes on current progress.
+
+## What's done
+
+- **Changed the color palette** of the template to match our branding.
+- **Stripped unwanted features** from the template, since it was sourced from another repo and came with extras we don't need.
+- **Renamed a few sections** to reflect the features we actually need.
+- **Added the initial FB Live Mine logic** 
+- **Initialized database** for inventory
