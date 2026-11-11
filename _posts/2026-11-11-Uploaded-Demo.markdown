@@ -1,7 +1,7 @@
 ---
 title: "Uploaded Demo 0"
 date: 2026-11-11 21:15:00 +0800
-categories: 
+categories: demo
 ---
 
-[Watch the demo here!](https://youtu.be/e8UE9x_KCq4)
+[Watch the demo here! https://youtu.be/e8UE9x_KCq4](https://youtu.be/e8UE9x_KCq4)
