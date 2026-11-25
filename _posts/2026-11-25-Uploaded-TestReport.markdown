@@ -1,7 +1,7 @@
 ---
 title: "Uploaded Test Report"
 date: 2026-11-25 20:49:31 +0800
-categories: Report
+categories:
 ---
 
-[Uploaded Test Report to the archives!]
+Uploaded Test Report to the archives!
